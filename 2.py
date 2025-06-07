@@ -1,14 +1,2 @@
-
-a = int(input("First number: "))
-b = int(input("Second number: "))
-print(f"""First number: {a}
-Second number: {b}
-{a} + {b} is { a + b }
-{a} - {b} is { a - b }
-{a} * {b} is { a * b }
-{a} / {b} is { a / b }
-{a} // {b} is { a // b }
-{a} ** {b} is { a ** b }
-{a} % {b} is { a % b }
-
-""")
+x,y = int(input("Enter x: ")), int(input("Enter y: "))
+print(f"Sum of {x} and {y} is {x+y}")
