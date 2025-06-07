@@ -1,4 +1,4 @@
-# 🐍 Top 100 Days 100 Python Projects for Beginners
+# 🐍 100 Days 100 Python Projects for Beginners
 
 Welcome to the **Top 100 Best Python Programs** – a curated, simplified, and beginner-friendly list of projects to help you master Python through hands-on practice. These projects are organized by difficulty and domain to support progressive learning.
 
